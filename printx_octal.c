@@ -2,7 +2,7 @@
 
 /**
  * printx_octal - Prints an octal number.
- * @val: Arguments.
+ * @val: Args.
  *
  * Return: Number of characters printed.
  */
