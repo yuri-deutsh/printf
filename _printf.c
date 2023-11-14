@@ -17,10 +17,10 @@ int _printf(const char * const format, ...)
 		{"%S", printx_exc_str}, {"%p", printx_xpointer}
 	};
 
-	va_list arguments;
+	va_list args;
 	int j = 0, k, len = 0;
 
-	va_start(arguments, format);
+	va_start(args, format);
 	if (format == NULL || (format[0] == '%' && format[1] == '\0'))
 		return (-1);
 
@@ -32,7 +32,7 @@ Here:
 		{
 			if (m[k].id[0] == format[j] && m[k].id[1] == format[j + 1])
 			{
-				len += m[k].f(arguments);
+				len += m[k].f(args);
 				j = j + 2;
 				goto Here;
 			}
@@ -42,7 +42,7 @@ Here:
 		len++;
 		j++;
 	}
-	va_end(arguments);
+	va_end(args);
 	return (len);
 }
 
