@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strlen - Returns the lenght of a string.
+ * _strlen - Returns the lenght of a strings.
  *
  * Authors: Nabil and Eben
  * @s: Type char pointer
