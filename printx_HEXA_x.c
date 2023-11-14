@@ -3,7 +3,7 @@
 /**
  * printx_HEXA_x - Prints uppercase hexadecimal number.
  * @num: Number to print.
- *
+ * Author: Nabil and Eben
  * Return: Number of printed characters.
  */
 int printx_HEXA_x(unsigned int num)
