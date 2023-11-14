@@ -45,4 +45,3 @@ int printx_unsi(va_list args)
 
 	return (j);
 }
-
