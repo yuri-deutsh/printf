@@ -2,7 +2,7 @@
 
 /**
  * printx_hexa - Prints a hexadecimal number.
- * @val: Arguments.
+ * @val: Args.
  *
  * Return: Number of characters printed.
  */
