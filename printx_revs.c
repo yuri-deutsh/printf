@@ -2,7 +2,7 @@
 
 /**
  * printx_revs - Prints a string in reverse.
- * @args: Type struct va_arg where printf arguments are allocated.
+ * @args: Type struct va_arg where printf args are allocated.
  *
  * Authors: Nabil and Eben
  * Return: The length of the string.
