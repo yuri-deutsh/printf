@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * printx_exc_str - print x_excl_ strings.
- * @val: args.
+ * @val: arguments
  * Return: the length of the string.
  */
 
