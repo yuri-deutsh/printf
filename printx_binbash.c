@@ -3,7 +3,7 @@
 /**
  * printx_binbash - Prints a binary number.
  * @val: Arguments.
- *
+ * Author: Nabil and Eben
  * Return: Number of printed characters.
  */
 int printx_binbash(va_list val)
