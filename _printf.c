@@ -3,6 +3,7 @@
 /**
  * _printf - Print function based on the format specifier.
  * @format: Format specifier to identify the desired output format.
+ * Author: Nabil and Eben
  * Return: The length of the printed string.
  */
 int _printf(const char * const format, ...)
