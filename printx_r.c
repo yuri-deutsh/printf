@@ -2,7 +2,7 @@
 
 /**
  * printx_r - Prints a string to ROT13 and places it into a buffer.
- * @args: Type struct va_arg where printf arguments are allocated.
+ * @args: Type struct va_arg where printf args are allocated.
  * Authors: Nabil and Eben
  *
  * Return: Counter.
