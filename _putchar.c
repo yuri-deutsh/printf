@@ -3,7 +3,7 @@
 /**
  * _putchar - Writes a single character to the standard output.
  * @c: The character to be printed.
- *
+ * Author: Nabil and Eben
  * Return: returns 1. On error, returns -1 and sets errno accordingly.
  */
 int _putchar(char c)
