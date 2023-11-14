@@ -2,7 +2,7 @@
 
 /**
  * printx_int - Prints integers.
- * @args: Argument to print.
+ * @args: Args to print.
  *
  * Return: Number of characters printed.
  */
