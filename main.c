@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- *
+ * Author: Nabil and Eben
  * Return: Always 0
  */
 int main(void)
