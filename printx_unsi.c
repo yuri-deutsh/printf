@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * printx_unsi- Prints an unsigned integer.
+ * printx_unsi- Prints an unsigned int.
  * @args: Argument to print.
  * Nabil & Eben
  *
