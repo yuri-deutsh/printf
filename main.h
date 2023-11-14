@@ -11,7 +11,7 @@
  * struct format - Associates specifiers with print functions
  * @id: Char pointer specifier modifiers (e.g., l, h) for (d, i, u, o, x, X)
  * @f: Function pointer to the associated print function
- *
+ * Author: Nabil and Eben
  * Description:
  * Maps specifiers respective print functions for custom output formatting.
  */
